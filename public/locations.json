@@ -1,0 +1,1448 @@
+[
+  {
+    "id": "st-patrick-cathedral-el-paso-79902",
+    "name": "St. Patrick Cathedral",
+    "type": "Cathedral",
+    "address": "1118 N Mesa St, El Paso, TX 79902",
+    "phone": "(915) 533-4451",
+    "pastor": "Very Rev. James Marcus McFadin, D.Min. (Rector)",
+    "clergy": [
+      "Most Rev. Mark J. Seitz, D.D. (Bishop of the Diocese of El Paso)",
+      "Most Rev. Anthony C. Celino, D.D., J.C.L. (Auxiliary Bishop of the Diocese of El Paso)",
+      "Rev. Alfonso Coronado (Parochial Vicar)",
+      "Deacon Andres Ruvalcaba",
+      "Deacon Karl Twichell"
+    ],
+    "massTimes": [
+      "Saturday Mass (English) - 5:15 PM",
+      "Sunday Mass (English) - 7:00 AM",
+      "Sunday Mass (English) - 11:00 AM",
+      "Sunday Mass (Spanish) - 9:00 AM",
+      "Sunday Mass (Spanish) - 1:00 PM",
+      "Daily Mass - 7:00 AM",
+      "Daily Mass - 12:10 PM"
+    ],
+    "other": [
+      "Confessions - Saturday 3:30 PM",
+      "(Click Address for Google Maps)"
+    ],
+    "lat": 31.7656094,
+    "lng": -106.4930037,
+    "geocodeDisplayName": "1118, North Mesa Street, El Paso, El Paso County, Texas, 79902, United States"
+  },
+  {
+    "id": "all-saints-el-paso",
+    "name": "All Saints",
+    "address": "1415 Dakota Street, El Paso, TX 79930",
+    "phone": "(915) 566-9711",
+    "givingUrl": "https://giving.parishsoft.com/app/giving/all1415181",
+    "textToGive": "(915) 233-1814",
+    "pastor": "Rev. Mauro Munoz, OFM",
+    "type": "Parish",
+    "massTimes": [
+      "Saturday - 5:00 p.m. English",
+      "Sunday - 8:00 a.m. Español",
+      "Sunday - 10:30 a.m. English"
+    ],
+    "other": [
+      "Rosary: Tuesdays 8:00 a.m.",
+      "Reconciliation: Saturday 4:30 p.m."
+    ],
+    "lat": 31.7879826,
+    "lng": -106.4690946,
+    "geocodeDisplayName": "1415, Dakota Street, El Paso, El Paso County, Texas, 79930, United States"
+  },
+  {
+    "id": "blessed-sacrament-el-paso",
+    "name": "Blessed Sacrament",
+    "address": "9025 Diana Drive, El Paso, TX 79904",
+    "phone": "(915) 755-7658",
+    "givingUrl": "https://giving.parishsoft.com/app/giving/bles9025284",
+    "textToGive": "915-621-1659",
+    "pastor": "Rev. Charles Rajan Michael, OCD",
+    "deacon": "Deacon Jesus Emilio Torres",
+    "type": "Parish",
+    "massTimes": [
+      "Saturday (Anticipation) - 5:00 p.m. (English/Spanish note in listing)",
+      "Sunday - 8:00 a.m. Español",
+      "Sunday - 10:00 a.m. English",
+      "Sunday - 12:00 Noon English",
+      "Sunday - 2:00 p.m. Español",
+      "Weekdays - 8:15 a.m. (Mon/Wed/Fri English; Tue/Thu Español)"
+    ],
+    "other": [
+      "Holy Hour: Every Friday 5:00 p.m.–8:00 p.m.",
+      "Last Friday: 5:00 p.m.–6:00 p.m. followed by Anointing Mass (Bilingual)",
+      "Confessions & Adoration: Saturday 2:00 p.m.–4:00 p.m."
+    ],
+    "lat": 31.868266,
+    "lng": -106.4233487,
+    "geocodeDisplayName": "9025, Diana Drive, Britton Davis, El Paso, El Paso County, Texas, 79904, United States"
+  },
+  {
+    "id": "catholic-campus-ministry-el-paso",
+    "name": "Catholic Campus Ministry",
+    "address": "2230 N Oregon St, El Paso, TX 79902",
+    "phone": null,
+    "givingUrl": null,
+    "textToGive": null,
+    "pastor": "Rev. Rijo Polachan (Administrator)",
+    "type": "Campus Ministry",
+    "massTimes": [
+      "Sunday (Bilingual) - 6:30 p.m.",
+      "Tuesday (Bilingual) - 12:30 p.m., followed by lunch",
+      "Wednesday (Bilingual) - 12:30 p.m., followed by lunch"
+    ],
+    "other": [
+      "Adoration: Tuesday and Thursday 7:00 p.m.",
+      "Reconciliation: Tue–Fri 3:00 p.m.–4:00 p.m. (walk-ins or by appointment)",
+      "Mass celebrated during fall/spring semesters; summer schedules vary."
+    ],
+    "lat": 31.7730953,
+    "lng": -106.500938,
+    "geocodeDisplayName": "2230, North Oregon Street, El Paso, El Paso County, Texas, 79902, United States"
+  },
+  {
+    "id": "christ-the-savior-el-paso",
+    "name": "Christ the Savior",
+    "address": "5301 Wadsworth, El Paso, TX 79924",
+    "phone": "(915) 821-3766",
+    "givingUrl": "https://faithlife.com/ctsep/give",
+    "textToGive": null,
+    "pastor": "Rev. Gleen Carpe",
+    "type": "Parish",
+    "massTimes": [
+      "Saturday - 5:00 p.m. English",
+      "Sunday - 8:00 a.m. English",
+      "Sunday - 9:30 a.m. Español",
+      "Sunday - 11:00 a.m. English",
+      "Daily Mass: Tue 5:00 p.m. Spanish; Wed 5:00 p.m. English; Thu 5:00 p.m. Spanish; Fri 5:00 p.m. English"
+    ],
+    "other": [
+      "Confessions: Tue–Fri 4:30 p.m.–4:50 p.m. (or call office)",
+      "Adoration: Second Thursday 2:30 p.m.; 1st Friday 2:30 p.m."
+    ],
+    "lat": 31.922588,
+    "lng": -106.418291,
+    "geocodeDisplayName": "5301, Wadsworth Avenue, Veteran's Park, El Paso, El Paso County, Texas, 79924, United States"
+  },
+  {
+    "id": "corpus-christi-el-paso-79907",
+    "name": "Corpus Christi",
+    "type": "Parish",
+    "address": "9205 North Loop Drive, El Paso, TX 79907",
+    "phone": "(915) 858-0488",
+    "pastor": "Rev. Ralph M. Solis",
+    "clergy": [
+      "Deacon Juan M. Alvarez",
+      "Deacon Carlos Rubio"
+    ],
+    "givingUrl": "https://corpuschristicc.weshareonline.org/",
+    "textToGive": null,
+    "massTimes": [
+      "Daily Mass (Mon–Fri) - 8:00 A.M. Spanish",
+      "Saturday - 6:00 P.M. Spanish",
+      "Sunday - 8:00 A.M. Español",
+      "Sunday - 10:00 A.M. English",
+      "Sunday - 12:00 P.M. Español",
+      "Sunday - 2:00 P.M. Español"
+    ],
+    "other": [
+      "Reconciliations: Wednesday & Saturday 4:00 – 5:30 PM"
+    ],
+    "lat": 31.6977508,
+    "lng": -106.3129845,
+    "geocodeDisplayName": "9205, North Loop Drive, El Paso, El Paso County, Texas, 79907, United States"
+  },
+  {
+    "id": "cristo-rey-el-paso-79907",
+    "name": "Cristo Rey",
+    "type": "Parish",
+    "address": "8011 Williamette Ave, El Paso, TX 79907",
+    "phone": "(915) 591-0688",
+    "pastor": "Rev. Cong Vo",
+    "clergy": [
+      "Rev. Kenneth \"Ken\" Moody (Parochial Vicar)",
+      "Deacon Arturo Medina",
+      "Deacon Ricardo López"
+    ],
+    "givingUrl": "https://giving.parishsoft.com/app/giving/CristoRey",
+    "textToGive": "(915) 800-3601",
+    "massTimes": [
+      "Daily Mass (Mon–Fri) - 7:30am Spanish/Español",
+      "Thursday - 5:00pm Holy Hour/Hora Santa (Spanish/Español)",
+      "Saturday - 4:00pm Confessions/Confesiones",
+      "Saturday - 5:00pm Spanish/Español",
+      "Sunday - 8:00am Spanish/Español",
+      "Sunday - 10:00am English/Inglés",
+      "Sunday - 12:00pm Bilingual/Bilingüe"
+    ],
+    "other": [],
+    "lat": 31.7393014,
+    "lng": -106.3402676,
+    "geocodeDisplayName": "8011, Williamette Avenue, El Paso, El Paso County, Texas, 79907, United States"
+  },
+  {
+    "id": "el-buen-pastor-mission-el-paso-79928",
+    "name": "El Buen Pastor Mission",
+    "type": "Mission",
+    "address": "311 Peyton, El Paso, TX 79928",
+    "phone": "(915) 852-4010",
+    "pastor": "Rev. Angel Tarango Ceballos",
+    "clergy": [
+      "Deacon Jose Maria \"Chema\" Gonzalez"
+    ],
+    "givingUrl": "https://giving.parishsoft.com/app/giving/elbuenpastorelpasotx",
+    "textToGive": "(915) 800-7660",
+    "massTimes": [
+      "Saturday - 5:30PM (Bilingual)",
+      "Sunday - 8:30am Español",
+      "Sunday - 10:30am English",
+      "Sunday - 12:30pm Español",
+      "Tuesday & Wednesday - 10:00am (Spanish)",
+      "Thursday - 6:00pm (Spanish), followed by Exposition of the Eucharist",
+      "Friday - 10:00am (Spanish)"
+    ],
+    "other": [
+      "Reconciliations: Saturday 3:30pm; Tue–Fri 30 minutes before Mass"
+    ],
+    "lat": 31.6761406,
+    "lng": -106.2425664,
+    "geocodeDisplayName": "311, Peyton Road, Sparks, El Paso County, Texas, 79928, United States"
+  },
+  {
+    "id": "guardian-angel-el-paso-79905",
+    "name": "Guardian Angel",
+    "type": "Parish",
+    "address": "3021 Frutas Avenue, El Paso, TX 79905",
+    "phone": "(915) 533-2077",
+    "pastor": "Rev. Ron Sibugan, AA",
+    "clergy": [
+      "Daniele Caglioni (Brother)"
+    ],
+    "givingUrl": "https://www.elpasodiocesefoundation.org/my-parish-offertory",
+    "textToGive": null,
+    "massTimes": [
+      "Saturday - 5:00pm (Spanish)",
+      "Sunday - 8:00am (Spanish)",
+      "Sunday - 10:00am (English)",
+      "Sunday - 12:00pm (Spanish)",
+      "Weekdays (Tue–Fri) - 6:00pm (Spanish)",
+      "Holy Days - As announced"
+    ],
+    "other": [
+      "Adoration: Thursday 5:00pm",
+      "Confessions: Saturday 4:00pm–4:50pm"
+    ],
+    "lat": 31.7745886,
+    "lng": -106.4595948,
+    "geocodeDisplayName": "3021, Frutas Avenue, El Paso, El Paso County, Texas, 79905, United States"
+  },
+  {
+    "id": "holy-family-el-paso-79902",
+    "name": "Holy Family",
+    "type": "Parish",
+    "address": "104 Fewel Street, El Paso, TX 79902-3702",
+    "phone": "(915) 532-8462",
+    "pastor": "Rev. James Marcus McFadin",
+    "clergy": [
+      "Rev. Alfonso Coronado (Parochial Vicar)"
+    ],
+    "givingUrl": "https://giving.parishsoft.com/app/giving/holyfamilyep",
+    "textToGive": "(915) 800-2860",
+    "email": null,
+    "massTimes": [
+      "Anticipated Saturday - 5:15pm (English)",
+      "Sunday - 10:30am (Spanish)"
+    ],
+    "other": [
+      "Reconciliation: Saturdays 30 minutes before 5:15pm Mass",
+      "Eucharistic Adoration: First Fridays of the month 3:00pm"
+    ],
+    "lat": 31.7595527,
+    "lng": -106.5001675,
+    "geocodeDisplayName": "104, Fewel Street, El Paso, El Paso County, Texas, 79902, United States"
+  },
+  {
+    "id": "holy-spirit-horizon-city-79928",
+    "name": "Holy Spirit",
+    "type": "Parish",
+    "address": "14600 Horizon Blvd., Horizon City, TX 79928",
+    "phone": "(915) 852-3582",
+    "pastor": "Rev. Miguel Fernando Perez",
+    "clergy": [
+      "Rev. Anwar Camarena (Parochial Vicar)",
+      "Deacon Ray Niblett"
+    ],
+    "givingUrl": "https://giving.parishsoft.com/app/giving/hscc",
+    "textToGive": null,
+    "email": null,
+    "massTimes": [
+      "Daily Mass (Mon–Fri) - 8:00am (Bilingual)",
+      "Tuesday Liturgy - 8:00am",
+      "Saturday - 4:30pm (Bilingual)",
+      "Sunday - 8:00am (English)",
+      "Sunday - 10:00am (Español)",
+      "Sunday - 12:00pm (English)",
+      "Sunday - 2:00pm (Español)"
+    ],
+    "other": [
+      "Reconciliations: Saturdays 2:30pm–4:00pm or by appointment"
+    ],
+    "lat": 31.6828037,
+    "lng": -106.2034166,
+    "geocodeDisplayName": "Horizon Boulevard, Horizon City, El Paso County, Texas, 79928, United States"
+  },
+  {
+    "id": "immaculate-conception-el-paso-79901",
+    "name": "Immaculate Conception",
+    "type": "Parish",
+    "address": "118 N Campbell St, El Paso, TX 79901",
+    "phone": "(915) 533-3427",
+    "pastor": "Rev. Kevin O’Neill, FSSP",
+    "clergy": [
+      "Rev. Anthony Fill (Pastor)",
+      "Rev. Michael Caughey, FSSP (Parochial Vicar)"
+    ],
+    "givingUrl": "http://giving.parishsoft.com/app/giving/immaculateconception",
+    "textToGive": null,
+    "email": "ic.ecclesia@gmail.com",
+    "massTimes": [
+      "All Masses in Latin",
+      "Sunday - 8:00am",
+      "Sunday - 10:00am (High Mass)",
+      "Sunday - 12:00pm",
+      "Monday - 7:00am",
+      "Monday - 12:05pm",
+      "Tuesday - 7:00am",
+      "Wednesday - 7:00am",
+      "Thursday - 12:05pm",
+      "Thursday - 6:30pm",
+      "Friday - 12:05pm",
+      "Friday - 6:30pm",
+      "Saturday - 7:30am",
+      "Saturday - 9:00am"
+    ],
+    "other": [
+      "Holy hour following the evening Mass",
+      "Exposition of the Most Blessed Sacrament follows the evening Mass on 1st Fridays"
+    ],
+    "lat": 31.7597598,
+    "lng": -106.4836412,
+    "geocodeDisplayName": "Immaculate Conception Catholic Church, 118, North Campbell Street, El Paso, El Paso County, Texas, 79901, United States"
+  },
+  {
+    "id": "immaculate-heart-of-mary-westway-79835",
+    "name": "Immaculate Heart of Mary",
+    "type": "Parish",
+    "address": "8300 De Alva Dr, Canutillo, TX 79835",
+    "phone": "(915) 877-3997",
+    "pastor": "Rev. Apolinar Samboni",
+    "clergy": [
+      "Rev. James Kofski (Parochial Vicar)",
+      "Deacon Felipe Barraza"
+    ],
+    "givingUrl": "https://www.elpasodiocesefoundation.org/my-parish-offertory",
+    "textToGive": null,
+    "email": null,
+    "massTimes": [
+      "Saturday - 12:00pm",
+      "Sunday - 9:00am",
+      "Sunday - 1:00pm",
+      "Tuesday - 6:00pm"
+    ],
+    "other": [],
+    "lat": 31.9596958,
+    "lng": -106.5755485,
+    "geocodeDisplayName": "Immaculate Heart of Mary Mission Church, 8300, De Alva Drive, Westway Number 4 Colonia, Westway, Canutillo, El Paso County, Texas, 79835, United States"
+  },
+  {
+    "id": "la-purisima-socorro-mission-79927",
+    "name": "La Purisima - Socorro Mission",
+    "type": "Mission",
+    "address": "328 S Nevarez Rd, Socorro, TX 79927",
+    "phone": "(915) 859-7718",
+    "pastor": "Rev. Marcelino Pena Tadeo",
+    "clergy": [
+      "Deacon Ignacio Torres"
+    ],
+    "givingUrl": "https://giving.parishsoft.com/app/giving/lapurisima",
+    "textToGive": "(915) 621-1444",
+    "email": null,
+    "massTimes": [
+      "Monday - Liturgy of the Word with Communion 8:00am (Spanish)",
+      "Tuesday–Friday - Mass 8:00am (Spanish)",
+      "First Saturday of the month - Mass 12:00pm",
+      "Saturday - 5:00pm (Spanish)",
+      "Sunday - 8:00am (Spanish)",
+      "Sunday - 10:00am (English)",
+      "Sunday - 12:00pm (Spanish)"
+    ],
+    "other": [
+      "Reconciliation: Saturday 4:00pm–4:30pm"
+    ],
+    "lat": 31.660125,
+    "lng": -106.3032731,
+    "geocodeDisplayName": "328, South Nevarez Road, Sunshine Colonia, Socorro, El Paso County, Texas, 79927, United States"
+  },
+  {
+    "id": "little-flower-el-paso-79915",
+    "name": "Little Flower",
+    "type": "Parish",
+    "address": "171 Polo Inn Road, El Paso, TX 79915",
+    "phone": "(915) 772-1285",
+    "pastor": "Rev. Alfonso Bonilla",
+    "clergy": [
+      "Deacon Carlos Barraza"
+    ],
+    "givingUrl": "https://giving.parishsoft.com/app/giving/littleflowerep",
+    "textToGive": "(915) 233-3353",
+    "email": null,
+    "massTimes": [
+      "Saturday - 6:00pm (Spanish)",
+      "Sunday - 8:00am (Spanish)",
+      "Sunday - 10:00am (English)",
+      "Sunday - 12:00pm (Spanish)",
+      "Weekdays (Tue–Fri) - 9:00am",
+      "Holy Days - As announced"
+    ],
+    "other": [
+      "Reconciliation: Saturday 5:00pm or by appointment"
+    ],
+    "lat": 31.7442645,
+    "lng": -106.3909936,
+    "geocodeDisplayName": "171, Polo Inn Road, Lakeside, El Paso, El Paso County, Texas, 79915, United States"
+  },
+  {
+    "id": "most-holy-trinity-el-paso-79924",
+    "name": "Most Holy Trinity",
+    "type": "Parish",
+    "address": "10000 Pheasant Road, El Paso, Texas 79924",
+    "phone": "(915) 301-0517",
+    "pastor": "Rev. Michael Lewis",
+    "clergy": [
+      "Rev. Luis Manuel Rodarte (Parochial Vicar)",
+      "Deacon Martin Soltero"
+    ],
+    "givingUrl": "https://giving.parishsoft.com/app/giving/most1000107",
+    "textToGive": null,
+    "email": null,
+    "massTimes": [
+      "Daily Mass - Tuesday 5:30pm",
+      "Daily Mass - Thursday 5:30pm",
+      "Daily Mass - Wednesday 8:00am",
+      "Daily Mass - Friday 8:00am",
+      "Saturday - 5:00pm",
+      "Sunday - 8:00am",
+      "Sunday - 10:00am",
+      "Sunday - 12:00pm (Spanish)"
+    ],
+    "other": [
+      "Confessions: Thursday 6:00pm (by appointment)"
+    ],
+    "lat": 31.900094,
+    "lng": -106.406601,
+    "geocodeDisplayName": "10000, Pheasant Road, El Paso, El Paso County, Texas, 79924, United States"
+  },
+  {
+    "id": "our-lady-of-assumption-el-paso-79930",
+    "name": "Our Lady of Assumption",
+    "type": "Parish",
+    "address": "4805 Byron Street, El Paso, TX 79930",
+    "phone": "(915) 566-4040",
+    "pastor": "Rev. Mark N.P. Salas",
+    "clergy": [
+      "Deacon Wade S. Horsch"
+    ],
+    "givingUrl": "https://giving.parishsoft.com/app/giving/ourladyofassumption",
+    "textToGive": "(915) 233-2444",
+    "email": null,
+    "massTimes": [
+      "Saturday Vigil - 4:15 PM (English)",
+      "Sunday - 8:00 AM (English)",
+      "Sunday - 10:00 AM (Español)",
+      "Tuesday - 7:00 AM (Español)",
+      "Thursday - 7:00 AM (Español)",
+      "Wednesday - 7:00 AM (English)",
+      "Friday - 7:00 AM (English)"
+    ],
+    "other": [
+      "Confessions: After Mass or by appointment / Después de misa o con cita previa"
+    ],
+    "lat": 31.8192905,
+    "lng": -106.4523018,
+    "geocodeDisplayName": "4805, Byron Street, El Paso, El Paso County, Texas, 79930, United States"
+  },
+  {
+    "id": "our-lady-of-guadalupe-el-paso-79930",
+    "name": "Our Lady of Guadalupe",
+    "type": "Parish",
+    "address": "2709 Alabama St, El Paso, TX 79930",
+    "phone": "(915) 562-4304",
+    "pastor": "Rev. Jafet Esau Perez Lopez, OFM",
+    "clergy": [
+      "Rev. Andres Sosa Medallin, OFM (Pastor)",
+      "Deacon Carlos Romo"
+    ],
+    "givingUrl": "https://giving.parishsoft.com/app/giving/olguadalupeep",
+    "textToGive": null,
+    "email": null,
+    "massTimes": [
+      "Monday–Saturday - 7:00 a.m. (Spanish)",
+      "Monday–Saturday - 6:00 p.m. (Spanish)",
+      "Saturday (Anticipated for Sunday) - 6:00 p.m. (Spanish)",
+      "Sunday - 6:30 a.m. (Spanish)",
+      "Sunday - 8:00 a.m. (Spanish)",
+      "Sunday - 9:30 a.m. (English)",
+      "Sunday - 11:00 a.m. (Spanish)",
+      "Sunday - 12:30 p.m. (Spanish)"
+    ],
+    "other": [
+      "Holy Hour / Hora Santa: Thursdays 7:00 p.m.",
+      "Pan de San Antonio: Tuesdays after the 6:00 p.m. Mass",
+      "Laudes / Rezo de Laudes: Monday–Saturday 6:30 a.m."
+    ],
+    "lat": 31.8006168,
+    "lng": -106.4660148,
+    "geocodeDisplayName": "2709, Alabama Street, El Paso, El Paso County, Texas, 79930, United States"
+  },
+  {
+    "id": "our-lady-of-guadalupe-fabens-79838",
+    "name": "Our Lady of Guadalupe - Fabens",
+    "type": "Parish",
+    "address": "127 W. Main, Fabens, TX 79838",
+    "phone": "(915) 764-3942",
+    "pastor": "Rev. Jose William Arevalo",
+    "clergy": [
+      "Deacon Roberto Garcia"
+    ],
+    "givingUrl": "https://www.elpasodiocesefoundation.org/my-parish-offertory",
+    "textToGive": null,
+    "email": null,
+    "massTimes": [
+      "Saturday - 6:00pm (Bilingual)",
+      "Sunday - 8:00am (Bilingual)",
+      "Sunday - 10:00am (Bilingual)",
+      "Sunday - 12:00pm (Bilingual)",
+      "Santa Rita Mission - Sunday 10:00 AM"
+    ],
+    "other": [],
+    "lat": 31.5038495,
+    "lng": -106.1592157,
+    "geocodeDisplayName": "Our Lady of Guadalupe Catholic Church, 127, West Main Street, Fabens, El Paso County, Texas, 79838, United States"
+  },
+  {
+    "id": "our-lady-of-mt-carmel-ysleta-mission-el-paso-79907",
+    "name": "Our Lady of Mt. Carmel - Ysleta Mission",
+    "type": "Mission",
+    "address": "131 S. Zaragosa, El Paso, TX 79907",
+    "phone": "(915) 859-9848",
+    "pastor": "Rev. Miguel Briseño, OFM Conv.",
+    "clergy": [
+      "Rev. Juan Zuniga, OFM Conv. (Parochial Vicar)",
+      "Deacon Hector Melendez"
+    ],
+    "givingUrl": "https://giving.parishsoft.com/app/giving/ysletamission",
+    "textToGive": "(915) 233-3672",
+    "email": null,
+    "massTimes": [
+      "Saturday - 5:00pm (English)",
+      "Sunday - 7:00am (Spanish)",
+      "Sunday - 9:00am (English)",
+      "Sunday - 11:00am (Spanish)",
+      "Sunday - 1:00pm (English)",
+      "During the week - 7:00am (Spanish)"
+    ],
+    "other": [
+      "Confessions: Saturday 3:45pm–4:45pm (in the Mission)",
+      "All Masses are presently celebrated in the Main Church"
+    ],
+    "lat": 31.7572408,
+    "lng": -106.2704595,
+    "geocodeDisplayName": "Zaragosa Market Place, El Paso, El Paso County, Texas, United States"
+  },
+  {
+    "id": "our-lady-of-sorrows-el-paso-79907",
+    "name": "Our Lady of Sorrows",
+    "type": "Parish",
+    "address": "7712 Rosedale Street, El Paso, TX 79907",
+    "phone": "(915) 433-8694",
+    "pastor": "Rev. Tobias Macias, OSM",
+    "clergy": [
+      "Rev. Rogelio Maria Rayas Hernandez, OSM (Parochial Vicar)"
+    ],
+    "givingUrl": "https://giving.parishsoft.com/app/giving/ourladyofsorrows",
+    "textToGive": "(915) 233-3350",
+    "email": null,
+    "massTimes": [
+      "Daily Mass - 12:00pm",
+      "Daily Mass - 6:30pm",
+      "Sunday (Spanish) - 6:30am",
+      "Sunday (Spanish) - 8:30am",
+      "Sunday (Spanish) - 10:30am",
+      "Sunday (Spanish) - 12:30pm",
+      "Sunday (Spanish) - 6:30pm",
+      "Saturday - 5:00pm (English)"
+    ],
+    "other": [
+      "Confessions: Mon–Fri 11:30am–12:00pm",
+      "Confessions: Tue–Fri 5:30pm–6:30pm"
+    ],
+    "lat": 31.737102,
+    "lng": -106.363364,
+    "geocodeDisplayName": "7712, Rosedale Street, El Paso, El Paso County, Texas, 79915, United States"
+  },
+  {
+    "id": "our-lady-of-the-light-el-paso-79905",
+    "name": "Our Lady of the Light",
+    "type": "Parish",
+    "address": "4700 Delta Drive, El Paso, TX 79905",
+    "phone": "(915) 532-1757",
+    "pastor": "Rev. Wilson Cuevas",
+    "clergy": [
+      "Roberto Alvarado (Parochial Vicar)",
+      "Deacon Pedro Garcia"
+    ],
+    "givingUrl": "https://giving.parishsoft.com/app/giving/ourladyofthelight",
+    "textToGive": "(915) 621-1757",
+    "email": null,
+    "massTimes": [
+      "Sunday - 10:00am (English)",
+      "Sunday - 12:00pm (Spanish)",
+      "Tuesday - 8:00am (Spanish)",
+      "Wednesday - 8:00am (Spanish)",
+      "Friday - 8:00am (Spanish)",
+      "Thursday - 5:00pm Mass and Holy Hour",
+      "1st Friday - After 8:00am Mass: Holy Hour"
+    ],
+    "other": [
+      "Confessions: Saturday 4:00pm (in Delta); contact for appointments"
+    ],
+    "lat": 31.7623361,
+    "lng": -106.4374012,
+    "geocodeDisplayName": "4700, Delta Drive, El Paso, El Paso County, Texas, 79905, United States"
+  },
+  {
+    "id": "our-lady-of-the-valley-el-paso-79907",
+    "name": "Our Lady of the Valley",
+    "type": "Parish",
+    "address": "8600 Winchester Rd, El Paso, TX 79907",
+    "phone": "(915) 859-7939",
+    "pastor": "Rev. Christian Benitez Abrica, OFM Conv. (Sacramental Minister)",
+    "clergy": [
+      "Deacon Salvador Ramirez Jr",
+      "Deacon Ignacio M. Bustillos"
+    ],
+    "givingUrl": "https://giving.parishsoft.com/app/giving/our8600106",
+    "textToGive": null,
+    "email": null,
+    "massTimes": [
+      "Daily Mass (Mon/Wed/Fri) - 8:30 a.m. (English)",
+      "Daily Mass (Tue/Thu) - 8:30 a.m. (Spanish)",
+      "Saturday - 5:00pm (English)",
+      "Sunday - 7:00am (Spanish)",
+      "Sunday - 9:00am (English)",
+      "Sunday - 11:00am (Spanish)",
+      "Sunday - 1:00pm (English)"
+    ],
+    "other": [
+      "Confessions: Saturday 3:00 p.m.–4:30 p.m."
+    ],
+    "lat": 31.7037041,
+    "lng": -106.3368053,
+    "geocodeDisplayName": "Our Lady of the Valley Catholic Church, 8600, Winchester Road, El Paso, El Paso County, Texas, 79907, United States"
+  },
+  {
+    "id": "queen-of-peace-el-paso-79912",
+    "name": "Queen of Peace",
+    "type": "Parish",
+    "address": "1551 Belvidere St, El Paso, TX 79912",
+    "phone": "(915) 584-5817",
+    "pastor": "Rev. Allan Alaka Olouch",
+    "clergy": [
+      "Deacon Orlando Sanchez",
+      "Deacon Adolfo Rubio"
+    ],
+    "givingUrl": "https://giving.parishsoft.com/app/giving/queenofpeace",
+    "textToGive": "(915) 621-5817",
+    "email": null,
+    "massTimes": [
+      "Saturday - 5:00pm",
+      "Sunday - 9:00am (English)",
+      "Sunday - 11:00am (Spanish)",
+      "Sunday - 1:00pm (English)",
+      "Holy Days - 8:30am, 12:00pm, 7:00pm",
+      "Weekdays - 8:30am"
+    ],
+    "other": [
+      "Confessions: Saturday 3:30pm–4:30pm or by appointment"
+    ],
+    "lat": 31.855599,
+    "lng": -106.523668,
+    "geocodeDisplayName": "1551, Belvidere Street, El Paso, El Paso County, Texas, 79912, United States"
+  },
+  {
+    "id": "sacred-heart-parish-el-paso-79901",
+    "name": "Sacred Heart Parish",
+    "type": "Parish",
+    "address": "602 South Oregon Street, El Paso, TX 79901",
+    "phone": "(915) 532-5447",
+    "pastor": "Rev. Rafael Garcia, SJ",
+    "clergy": [
+      "Rev. Michael Gallagher, SJ (Parochial Vicar)",
+      "Rev. Michael Chesney, SJ",
+      "Deacon Cruz Torres"
+    ],
+    "givingUrl": "https://giving.parishsoft.com/app/giving/shelpaso",
+    "textToGive": "(915) 621-5447",
+    "email": null,
+    "massTimes": [
+      "All Masses in Spanish",
+      "Monday–Saturday - 8:00 am",
+      "Tuesday–Friday - 5:00 pm",
+      "Saturday Vigil - 5:00 pm",
+      "Sunday - 8:00am",
+      "Sunday - 10:00am (Bilingual)",
+      "Sunday - 12:00pm"
+    ],
+    "other": [
+      "Confessions: Mon–Sat 7:30am–8:00am",
+      "Confessions: Saturday 4:00pm–5:00pm",
+      "Confessions: Sunday 9:30am–10:00am and 11:30am–12:00pm",
+      "Exposition of the Blessed Sacrament follows the morning Mass on 1st Friday"
+    ],
+    "lat": 31.7535338,
+    "lng": -106.4864459,
+    "geocodeDisplayName": "602, South Oregon Street, El Paso, El Paso County, Texas, 79901, United States"
+  },
+  {
+    "id": "san-antonio-de-padua-el-paso-79915",
+    "name": "San Antonio de Padua",
+    "type": "Parish",
+    "address": "503 Hunter, El Paso, TX 79915",
+    "phone": "(915) 598-1457",
+    "pastor": "Rev. Mariano Lopez",
+    "clergy": [
+      "Deacon David Hernandez"
+    ],
+    "givingUrl": "https://giving.parishsoft.com/app/giving/sanantonioccelpaso",
+    "textToGive": "(915) 621-1458",
+    "email": null,
+    "massTimes": [
+      "Saturday - 4:15pm (Spanish)",
+      "Sunday - 8:30am (English)",
+      "Sunday - 10:00am (Spanish)",
+      "Sunday - 12:00pm (English)",
+      "Monday - 8:15am (Spanish)",
+      "Wednesday - 8:15am (Spanish)",
+      "Thursday - 8:15am (Spanish)",
+      "Friday - 8:15am (Spanish)"
+    ],
+    "other": [
+      "Adoration: Thursday 6:00pm–7:00pm (Holy Hour / Hora Santa)",
+      "Confessions: Saturday 2:30pm–3:30pm"
+    ],
+    "lat": 31.7463294,
+    "lng": -106.3675144,
+    "geocodeDisplayName": "503, Hunter Drive, Tigua, El Paso, El Paso County, Texas, 79915, United States"
+  },
+  {
+    "id": "san-elceario-san-elizario-mission-79849",
+    "name": "San Elceario - San Elizario Mission",
+    "type": "Mission",
+    "address": "1556 San Elizario Rd, San Elizario, TX 79849",
+    "phone": "(915) 851-2333",
+    "pastor": "Rev. Juan Victor Gamino Trejo, M.N.M.",
+    "clergy": [
+      "Deacon Pilar Grijalva"
+    ],
+    "givingUrl": "https://giving.parishsoft.com/app/giving/sanelceario",
+    "textToGive": null,
+    "email": null,
+    "massTimes": [
+      "Daily Mass (Tue–Fri) - 8:30am",
+      "Saturday - 5:00pm (Spanish)",
+      "Sunday - 8:00am (Spanish)",
+      "Sunday - 10:00am (Spanish)",
+      "Sunday - 12:00pm (Spanish)",
+      "Sunday - 1:30pm (English)"
+    ],
+    "other": [
+      "Confessions: Thursday 5:00pm"
+    ],
+    "lat": 31.5849172,
+    "lng": -106.2728622,
+    "geocodeDisplayName": "Presidio Chapel of San Elizario, 1556, San Elizario Rd., Plaza Bernal Colonia, San Elizario, El Paso County, Texas, 79849, United States"
+  },
+  {
+    "id": "san-felipe-de-jesus-socorro-79849",
+    "name": "San Felipe de Jesus - Socorro",
+    "type": "Parish",
+    "address": "401 Passmore, Socorro, TX 79849",
+    "phone": "(915) 851-3039",
+    "pastor": "Rev. Antonio Mena",
+    "clergy": [],
+    "givingUrl": "https://www.elpasodiocesefoundation.org/my-parish-offertory",
+    "textToGive": null,
+    "email": null,
+    "massTimes": [
+      "Saturday - 5:00pm (Español)",
+      "Sunday - 8:00am (Español)",
+      "Sunday - 10:00am (English/Inglés)",
+      "Sunday - 12:00pm (Español)"
+    ],
+    "other": [],
+    "lat": 31.621836,
+    "lng": -106.276802,
+    "geocodeDisplayName": "401, Passmore Road, Friedman Estates Number 1 Colonia, Socorro, El Paso County, Texas, 79927, United States"
+  },
+  {
+    "id": "san-juan-bautista-el-paso-79905",
+    "name": "San Juan Bautista",
+    "type": "Parish",
+    "address": "5649 Dailey Ave, El Paso, TX 79905",
+    "phone": "(915) 779-1583",
+    "pastor": "Rev. Miguel Angel Sanchez",
+    "clergy": [
+      "Rev. Angel Aguilar (Parochial Vicar)",
+      "Deacon Gabriel Saucedo"
+    ],
+    "givingUrl": "https://www.elpasodiocesefoundation.org/my-parish-offertory",
+    "textToGive": null,
+    "email": "sanjuanoffice@gmail.com",
+    "massTimes": [
+      "Daily Mass (Mon–Fri) - 8:00am",
+      "Sunday - 8:00am (Español)",
+      "Sunday - 12:30pm (Español)"
+    ],
+    "other": [
+      "Hora Santa: Thursday 6:00pm",
+      "Confesiones: Thursday 5:00pm–6:00pm",
+      "Exposición del Santísimo Sacramento: 1st Friday of the month 9:00am–12:00pm"
+    ],
+    "lat": 31.7745474,
+    "lng": -106.4220639,
+    "geocodeDisplayName": "5649, Dailey Avenue, El Paso, El Paso County, Texas, 79905, United States"
+  },
+  {
+    "id": "san-juan-diego-el-paso-79938",
+    "name": "San Juan Diego",
+    "type": "Parish",
+    "address": "14520 East Montana, El Paso, TX 79938",
+    "phone": "(915) 855-2217",
+    "pastor": "Rev. Rolando Fonseca",
+    "clergy": [],
+    "givingUrl": "https://giving.parishsoft.com/app/giving/sanjuandiego",
+    "textToGive": "(915) 800-8610",
+    "email": null,
+    "massTimes": [
+      "Sunday - 8:00AM",
+      "Sunday - 10:00AM (Spanish)",
+      "Sunday - 12:00PM",
+      "Sunday - 6:00PM",
+      "Tuesday - 6:15PM"
+    ],
+    "other": [],
+    "lat": 31.8073111,
+    "lng": -106.2452919,
+    "geocodeDisplayName": "Cinemark East Montana, 12704, Montana Avenue, El Paso, El Paso County, Texas, 79938, United States"
+  },
+  {
+    "id": "san-judas-tadeo-el-paso-79922",
+    "name": "San Judas Tadeo",
+    "type": "Parish",
+    "address": "4006 Hidden Way, El Paso, TX 79922",
+    "phone": "(915) 584-1095",
+    "pastor": "Rev. Eliberto \"Beto\" Lopez",
+    "clergy": [
+      "Rev. Esteban Sescon (Sacramental Administrator)",
+      "Deacon Michael F. Alvarado",
+      "Deacon Julio Cesar Diaz"
+    ],
+    "givingUrl": "https://giving.parishsoft.com/app/giving/sant4006200",
+    "textToGive": null,
+    "email": null,
+    "massTimes": [
+      "Daily Mass (Mon–Fri) - 6:30pm",
+      "Saturday - 4:00pm (Spanish)",
+      "Saturday - 6:00pm (English)",
+      "Sunday - 7:30am (Spanish)",
+      "Sunday - 10:30am (English)",
+      "Sunday - 12:30pm (Spanish)",
+      "Sunday - 2:30pm (Spanish)",
+      "Sunday - 6:00pm (Spanish)"
+    ],
+    "other": [
+      "Confessions: Tue–Fri 5:00pm–6:00pm (by appointment)"
+    ],
+    "lat": 31.8190039,
+    "lng": -106.5589849,
+    "geocodeDisplayName": "4006, Hidden Way, El Paso, El Paso County, Texas, 79922, United States"
+  },
+  {
+    "id": "san-pedro-de-jesus-maldonado-el-paso-79938",
+    "name": "San Pedro de Jesus Maldonado",
+    "type": "Parish",
+    "address": "3000 Tim Foster St, El Paso, TX 79938",
+    "phone": "(915) 271-8060",
+    "pastor": "Rev. German Alzate",
+    "clergy": [
+      "Deacon Luis Torres"
+    ],
+    "givingUrl": "https://giving.parishsoft.com/app/giving/spdjmaldonado",
+    "textToGive": "(915) 233-3602",
+    "email": null,
+    "massTimes": [
+      "Saturday - 4:00pm (English)",
+      "Saturday - 6:00pm (Spanish)",
+      "Sunday - 8:00am (Spanish)",
+      "Sunday - 10:00am (English)",
+      "Sunday - 12:00pm (Spanish)",
+      "Daily Mass - 6:00pm (Monday)",
+      "Daily Mass - 6:00pm (Wednesday)",
+      "Daily Mass - 6:00pm (Thursday)",
+      "Daily Mass - 6:00pm (Friday)"
+    ],
+    "other": [
+      "Confessions: Friday 5:00pm–6:00pm"
+    ],
+    "lat": 31.782295,
+    "lng": -106.225031,
+    "geocodeDisplayName": "3000, Tim Foster Street, El Paso, El Paso County, Texas, 79938, United States"
+  },
+  {
+    "id": "san-lorenzo-clint-79836",
+    "name": "San Lorenzo - Clint",
+    "type": "Parish",
+    "address": "13021 Center Way, Clint, TX 79836 (P.O. Box 215)",
+    "phone": "(915) 851-2255",
+    "pastor": "Rev. Martin Alonso Bustos Gonzalez, M.N.M.",
+    "clergy": [],
+    "givingUrl": "https://giving.parishsoft.com/app/giving/sanlorenzo",
+    "textToGive": "(915) 233-3303",
+    "email": null,
+    "massTimes": [
+      "Saturday - 5:00pm (English)",
+      "Sunday - 8:00am (Spanish)",
+      "Sunday - 10:00am (English)",
+      "Sunday - 12:00pm (Spanish)",
+      "Sunday - 1:30pm (Spanish)",
+      "Daily Mass (Tue–Fri) - 8:00am"
+    ],
+    "other": [],
+    "lat": 31.5918482,
+    "lng": -106.2260969,
+    "geocodeDisplayName": "San Lorenzo Church, 13021, Center Way, Clint, El Paso County, Texas, 79836, United States"
+  },
+  {
+    "id": "santo-nino-de-atocha-el-paso-79905",
+    "name": "Santo Niño de Atocha",
+    "type": "Parish",
+    "address": "210 South Clark Drive, El Paso, TX 79905",
+    "phone": "(915) 779-3164",
+    "pastor": "Rev. Wilson Cuevas (Parish Administrator)",
+    "clergy": [
+      "Roberto Alvarado (Parochial Vicar)",
+      "Deacon Jesus Osvaldo Contreras"
+    ],
+    "givingUrl": "https://giving.parishsoft.com/app/giving/santonino",
+    "textToGive": "(915) 233-1726",
+    "email": null,
+    "massTimes": [
+      "Saturday - 6:00pm (English)",
+      "Sunday - 10:00am (Spanish)",
+      "Sunday - 12:00pm (Spanish)",
+      "Sunday - 6:00pm (English)",
+      "Daily Mass - 8:00am (Spanish)"
+    ],
+    "other": [
+      "Confessions: Saturday 5:00pm–6:00pm or by appointment"
+    ],
+    "lat": 31.762589,
+    "lng": -106.414056,
+    "geocodeDisplayName": "210, South Clark Drive, El Paso, El Paso County, Texas, 79905, United States"
+  },
+  {
+    "id": "st-frances-xavier-cabrini-el-paso-79936",
+    "name": "St. Frances Xavier Cabrini",
+    "type": "Parish",
+    "address": "12200 Vista del Sol, El Paso, TX 79936",
+    "phone": "(915) 857-1263",
+    "pastor": "Rev. Benjamin Flores-Ruiz",
+    "clergy": [
+      "Rev. Cesar Garcia (Parochial Vicar)",
+      "Deacon Jim Szostek",
+      "Deacon Dagoberto \"Chato\" Gonzalez",
+      "Deacon Alexander Askee Gutierrez (Transitional)",
+      "Deacon Bob Guerra"
+    ],
+    "givingUrl": "https://giving.parishsoft.com/app/giving/stfrancescabrini",
+    "textToGive": "(915) 621-2633",
+    "email": "office@sfxc.church",
+    "massTimes": [
+      "Saturday - 5:00 p.m. (English)",
+      "Sunday - 7:30am (Español)",
+      "Sunday - 9:30am (English)",
+      "Sunday - 11:30am (Español)",
+      "Sunday - 1:30pm (English)"
+    ],
+    "other": [
+      "Office Hours: Mon–Thu 8am–12pm and 1pm–5:30pm; Fri 8am–12pm and 1pm–3pm"
+    ],
+    "lat": 31.7384951,
+    "lng": -106.275011,
+    "geocodeDisplayName": "Saint Frances Xavier Cabrini Catholic Church, 12200, Vista del Sol Drive, El Paso, El Paso County, Texas, 79936, United States"
+  },
+  {
+    "id": "st-francis-of-assisi-el-paso-79932",
+    "name": "St. Francis of Assisi",
+    "type": "Parish",
+    "address": "5750 Doniphan Dr, El Paso, TX 79932",
+    "phone": "(915) 584-7130",
+    "pastor": "Rev. Jose Emilio Flores Lira, OFM",
+    "clergy": [
+      "Fr. Juan Francisco Figueroa, OFM (Parochial Vicar)",
+      "Deacon Alfonso Sandoval",
+      "Deacon Alejandro Caballero",
+      "Deacon Guillermo Trejo"
+    ],
+    "givingUrl": "https://giving.parishsoft.com/app/giving/stfrancisofassisiep",
+    "textToGive": "(915) 233-3480",
+    "email": null,
+    "massTimes": [
+      "Daily Mass (Mon–Sat) - 7:00am (Mission)",
+      "Daily Mass (Mon–Fri) - 6:00pm (Church)",
+      "Saturday - 6:00pm",
+      "Sunday Mass (all Spanish) - 9:00 a.m.",
+      "Sunday Mass (all Spanish) - 11:00 a.m.",
+      "Sunday Mass (all Spanish) - 1:00pm",
+      "Sunday Mass (all Spanish) - 6:00 p.m."
+    ],
+    "other": [
+      "P.O. Box 220034, El Paso, TX 79913",
+      "Confessions: Tuesday 4:30pm (Chapel); Saturday 4:30pm (Chapel)",
+      "Adoration of the Blessed Sacrament: Thursday 7:00am–5:30pm"
+    ],
+    "lat": 31.8648272,
+    "lng": -106.5874901,
+    "geocodeDisplayName": "Saint Francis Xavier Church, 5750, Doniphan Drive, El Paso, El Paso County, Texas, 79932, United States"
+  },
+  {
+    "id": "st-frances-xavier-el-paso-79904",
+    "name": "St. Frances Xavier",
+    "type": "Parish",
+    "address": "519 South Latta Street, El Paso, TX 79904",
+    "phone": "(915) 532-2761",
+    "pastor": "Rev. Peter R. Precourt, AA, D.Min.",
+    "clergy": [
+      "Rev. Francois Tshiamala Katalayi"
+    ],
+    "givingUrl": "https://giving.parishsoft.com/app/giving/stfrancisxavierep",
+    "textToGive": "(915) 233-4441",
+    "email": null,
+    "massTimes": [
+      "Daily Mass (Mon–Sat) - 8:00 AM (Spanish/Español)",
+      "Saturday (Anticipated) - 5:30 PM (Spanish/Español)",
+      "Sunday - 8:00am (Spanish/Español)",
+      "Sunday - 10:00 AM (English/Inglés)",
+      "Sunday - 12:00pm (Spanish/Español)"
+    ],
+    "other": [
+      "Confessions: Saturday 4:00pm–5:00pm; by appointment during the week"
+    ],
+    "lat": 31.7688984,
+    "lng": -106.4487107,
+    "geocodeDisplayName": "St. Francis Xavier Catholic Church & Parish, 519, South Latta Street, Woodlawn, El Paso, El Paso County, Texas, 79905, United States"
+  },
+  {
+    "id": "st-ignatius-el-paso-79901",
+    "name": "St. Ignatius",
+    "type": "Parish",
+    "address": "408 Park Street, El Paso, TX 79901",
+    "phone": "(915) 532-9534",
+    "pastor": "Rev. Federico Franco, OSM",
+    "clergy": [
+      "Rev. Jorge M. Palacio, OSM (Parochial Vicar)",
+      "Rev. Ernesto Ruvalcaba, OSM (Parochial Vicar)"
+    ],
+    "givingUrl": "https://giving.parishsoft.com/app/giving/sanignaciochurch",
+    "textToGive": "(915) 233-3335",
+    "email": null,
+    "massTimes": [
+      "All Mass Times in Spanish",
+      "Saturday - 6:30 PM",
+      "Sunday - 7:00AM",
+      "Sunday - 9:00AM",
+      "Sunday - 10:30 AM",
+      "Sunday - 12:00PM",
+      "Sunday - 6:30 PM",
+      "Daily Mass - 7:00AM",
+      "Daily Mass - 6:30 PM"
+    ],
+    "other": [],
+    "lat": 31.7578974,
+    "lng": -106.4757176,
+    "geocodeDisplayName": "408, South Park Street, El Paso, El Paso County, Texas, 79901, United States"
+  },
+  {
+    "id": "st-john-paul-ii-el-paso-79915",
+    "name": "St. John Paul II",
+    "type": "Parish",
+    "address": "518 Gallagher, El Paso, TX 79915",
+    "phone": "(915) 592-5245",
+    "pastor": "Rev. Mateus Pol, OSM",
+    "clergy": [
+      "Deacon Jose Zaragoza"
+    ],
+    "givingUrl": "https://giving.parishsoft.com/app/giving/stj518122",
+    "textToGive": null,
+    "email": null,
+    "massTimes": [
+      "Saturday - 5:00 p.m. (Spanish)",
+      "Sunday - 9:00am (Spanish)",
+      "Sunday - 11:00am (English)",
+      "Daily Mass (Tue/Wed/Fri) - 8:00am (Spanish)"
+    ],
+    "other": [
+      "Reconciliation: Saturday 4:00pm–5:00pm"
+    ],
+    "lat": 31.7369957,
+    "lng": -106.3521147,
+    "geocodeDisplayName": "518, Gallagher Street, Hacienda Heights, El Paso, El Paso County, Texas, 79915, United States"
+  },
+  {
+    "id": "st-joseph-el-paso-79903",
+    "name": "St. Joseph",
+    "type": "Parish",
+    "address": "1315 Travis Street, El Paso, Texas 79903",
+    "phone": "(915) 566-9396",
+    "pastor": "Rev. Fabian Marquez",
+    "clergy": [
+      "Fr. Marian Emmanuel (In-Residence)",
+      "Deacon Luis Alberto Buena"
+    ],
+    "givingUrl": "https://giving.parishsoft.com/app/giving/saintjosephep",
+    "textToGive": "(915) 615-2552",
+    "email": null,
+    "massTimes": [
+      "Saturday - 5:00pm",
+      "Sunday - 8:15am (Spanish)",
+      "Sunday - 10:00am (Spanish)",
+      "Sunday - 12:00pm (Spanish)",
+      "Tuesday - 5:30pm",
+      "Wednesday - 8:30am (School Mass)",
+      "Friday - 8:30am"
+    ],
+    "other": [
+      "Adoration: Friday 5:30pm–6:30pm (First Friday of each month)",
+      "Confessions: Saturday 3:45pm–4:45pm or by appointment",
+      "Devotions: Tuesday 5:15pm–5:30pm (St. Jude Novena)"
+    ],
+    "lat": 31.786953,
+    "lng": -106.4481283,
+    "geocodeDisplayName": "1315, Travis Street, El Paso, El Paso County, Texas, 79903, United States"
+  },
+  {
+    "id": "st-luke-el-paso-79912",
+    "name": "St. Luke",
+    "type": "Parish",
+    "address": "930 E Redd Rd, El Paso, TX 79912",
+    "phone": "(915) 585-0255",
+    "pastor": "Rev. Ed Carpenter",
+    "clergy": [
+      "Deacon Guillermo Jiron",
+      "Deacon Carlos Viesca",
+      "Deacon Roman Bustillos",
+      "Deacon Fernando Jimenez"
+    ],
+    "givingUrl": "https://giving.parishsoft.com/App/Giving/stl930271",
+    "textToGive": "(915) 233-3555",
+    "email": null,
+    "massTimes": [
+      "Saturday - 4:30 p.m. (English)",
+      "Sunday - 9:00am (English)",
+      "Sunday - 11:00am (English)",
+      "Sunday - 1:00 p.m. (Español)",
+      "Sunday - 4:00 p.m. (English)",
+      "Daily Mass (Mon–Fri) - 7:30 a.m."
+    ],
+    "other": [
+      "Confessions: Saturday 3:00pm–4:00pm"
+    ],
+    "lat": 31.8631766,
+    "lng": -106.5478491,
+    "geocodeDisplayName": "Saint Lukes Catholic Church, 930, East Redd Road, El Paso, El Paso County, Texas, 79912, United States"
+  },
+  {
+    "id": "st-mark-el-paso-79936",
+    "name": "St. Mark",
+    "type": "Parish",
+    "address": "11700 Pebble Hills, El Paso, TX 79936",
+    "phone": "(915) 300-2800",
+    "pastor": "Rev. Jose Morales",
+    "clergy": [
+      "Rev. Astry Deraly (Parochial Vicar)",
+      "Rev. Bala Joseph Pulipati Joyappa (Parochial Vicar)",
+      "Deacon Jesús A. Cardenas, Ph.D.",
+      "Deacon Alberto Chavez",
+      "Deacon Arturo Jaimes, Sr."
+    ],
+    "givingUrl": "http://connectnowgiving.parishsoft.com/stmark",
+    "textToGive": "(915) 800-8524",
+    "email": null,
+    "massTimes": [
+      "Daily Mass - Monday 8:30a (Spanish)",
+      "Daily Mass - Tuesday 8:30a (Spanish)",
+      "Daily Mass - Thursday 8:30a (Spanish)",
+      "Daily Mass - Wednesday 8:30a (English)",
+      "Daily Mass - Friday 8:30a (English)",
+      "Saturday - 5:00pm (English)",
+      "Saturday - 6:30pm (Spanish)",
+      "Sunday - 7:30am (English)",
+      "Sunday - 9:00am (Spanish)",
+      "Sunday - 11:00am (English)",
+      "Sunday - 1:00pm (Spanish)",
+      "Sunday - 3:00pm (Spanish)",
+      "Sunday - 5:00pm (Spanish)"
+    ],
+    "other": [
+      "Confessions: Saturday 4:00pm–5:00pm"
+    ],
+    "lat": 31.782419,
+    "lng": -106.284872,
+    "geocodeDisplayName": "11700, Pebble Hills Boulevard, El Paso, El Paso County, Texas, 79936, United States"
+  },
+  {
+    "id": "st-matthew-el-paso-79922",
+    "name": "St. Matthew",
+    "type": "Parish",
+    "address": "400 W Sunset Rd, El Paso, TX 79922",
+    "phone": "(915) 584-3461",
+    "pastor": "Rev. Frank Lopez",
+    "clergy": [
+      "Rev. Loyd Divinagracia (Parochial Vicar)",
+      "Deacon Luis Angel Santos"
+    ],
+    "givingUrl": "https://www.osvonlinegiving.com/4545/Home/NewQuickGive",
+    "textToGive": null,
+    "email": null,
+    "massTimes": [
+      "Saturday Vigil - 4:30 p.m. (English)",
+      "Sunday - 8:00 a.m. (English)",
+      "Sunday - 10:00 a.m. (English)",
+      "Sunday - 12:00 p.m. (Spanish)",
+      "Weekday (Mon–Fri) - 9:00 a.m."
+    ],
+    "other": [
+      "Reconciliation: Saturday 2:00pm–3:00pm"
+    ],
+    "lat": 31.831217,
+    "lng": -106.583178,
+    "geocodeDisplayName": "400, West Sunset Road, El Paso, El Paso County, Texas, 79922, United States"
+  },
+  {
+    "id": "st-patrick-canutillo-79835",
+    "name": "St. Patrick - Canutillo",
+    "type": "Parish",
+    "address": "7065 2nd Ave, Canutillo, TX 79835",
+    "pobox": "P.O. Box 10",
+    "phone": "(915) 877-3997",
+    "pastor": "Rev. Apolinar Samboni",
+    "clergy": [
+      "Rev. James Kofski (Parochial Vicar)",
+      "Deacon Felipe Barraza"
+    ],
+    "givingUrl": "https://www.elpasodiocesefoundation.org/my-parish-offertory",
+    "textToGive": null,
+    "email": null,
+    "massTimes": [
+      "Daily Mass (Tue & Thu only) - 9:00 A.M.",
+      "Saturday - 5:00 P.M. (Spanish)",
+      "Sunday - 8:00 A.M. (Spanish)",
+      "Sunday - 11:00 A.M. (English)"
+    ],
+    "other": [],
+    "lat": 31.914685,
+    "lng": -106.598378,
+    "geocodeNote": "Manual pin (OSM/Nominatim did not resolve)",
+    "geocodeDisplayName": "Manual pin (OSM/Nominatim did not resolve)"
+  },
+  {
+    "id": "st-paul-the-apostle-el-paso-79915",
+    "name": "St. Paul the Apostle",
+    "type": "Parish",
+    "address": "7424 Mimosa Ave, El Paso, TX 79915",
+    "phone": "(915) 778-5304",
+    "pastor": "Deacon Jose Gonzalez (Parish Administrator)",
+    "clergy": [
+      "Rev. Luis Alfredo Garcia (Sacramental Minister)"
+    ],
+    "givingUrl": "https://giving.parishsoft.com/app/giving/st7424214",
+    "textToGive": "(915) 995-5425",
+    "email": null,
+    "massTimes": [
+      "Tuesday–Friday - 7:00 a.m.",
+      "Saturday - 5:00 p.m. (English)",
+      "Sunday - 8:00 a.m. (Español)",
+      "Sunday - 10:00 a.m. (English)",
+      "Sunday - 12:00 p.m. (Español)",
+      "Sunday - 7:15 p.m. (Vietnamese)"
+    ],
+    "other": [
+      "Confessions: 2nd, 3rd & 4th Thursday - 7:00 p.m. & by appointment",
+      "Holy Hour: 1st Thursday of each month - 7:00 p.m."
+    ],
+    "lat": 31.737142,
+    "lng": -106.378967,
+    "geocodeDisplayName": "7424, Mimosa Avenue, El Paso, El Paso County, Texas, 79915, United States"
+  },
+  {
+    "id": "st-pius-x-el-paso-79905",
+    "name": "St. Pius X",
+    "type": "Parish",
+    "address": "1050 N Clark Dr, El Paso, TX 79905",
+    "phone": "(915) 772-3226",
+    "pastor": "Rev. Miguel Angel Sanchez",
+    "clergy": [
+      "Rev. Angel Aguilar (Parochial Vicar)",
+      "Deacon Gabriel Saucedo"
+    ],
+    "givingUrl": "https://stpiusxelpaso.churchgiving.com/",
+    "textToGive": null,
+    "email": null,
+    "massTimes": [
+      "Daily Mass (Mon–Fri) - 7:00am",
+      "Saturday - 5:30pm",
+      "Sunday - 7:00am (English)",
+      "Sunday - 9:00am (English)",
+      "Sunday - 11:00am (Spanish)",
+      "Sunday - 1:00pm (English)"
+    ],
+    "other": [
+      "Confessions: Saturday 4:00pm"
+    ],
+    "lat": 31.7798711,
+    "lng": -106.4072506,
+    "geocodeDisplayName": "St. Pius X, 1050, North Clark Drive, El Paso, El Paso County, Texas, 79905, United States"
+  },
+  {
+    "id": "st-raphael-el-paso-79925",
+    "name": "St. Raphael",
+    "type": "Parish",
+    "address": "2301 Zanzibar, El Paso, TX 79925",
+    "phone": "(915) 598-3431",
+    "pastor": "Rev. Pablo Matta",
+    "clergy": [
+      "Rev. Wilbert Colas (Parochial Vicar)",
+      "Deacon Victor Acosta",
+      "Deacon Daniel Bejarano",
+      "Deacon Robert Medina"
+    ],
+    "givingUrl": "https://giving.parishsoft.com/app/giving/Straphaelparishep",
+    "textToGive": "(915) 621-1380",
+    "email": null,
+    "massTimes": [
+      "Saturday - 4:00 p.m. (English)",
+      "1st Saturday of the Month - Filipino Mass 5:30pm",
+      "Sunday - 7:30 a.m. (Spanish)",
+      "Sunday - 9:30 a.m. (Spanish)",
+      "Sunday - 11:30 a.m. (Spanish)",
+      "Sunday - 1:30 p.m. (Spanish)",
+      "Sunday - 5:00 p.m. (Youth Mass)",
+      "Daily Mass - 7:00am (English)"
+    ],
+    "other": [
+      "Confession: 2:00pm–3:00pm"
+    ],
+    "lat": 31.774587,
+    "lng": -106.34326,
+    "geocodeDisplayName": "2301, Zanzibar Road, El Paso, El Paso County, Texas, 79925, United States"
+  },
+  {
+    "id": "st-stephen-deacon-and-martyr-el-paso-79936",
+    "name": "St. Stephen Deacon and Martyr",
+    "type": "Parish",
+    "address": "1700 George Dieter, El Paso, TX 79936",
+    "phone": "(915) 855-1661",
+    "pastor": "Rev. Frank Hernandez",
+    "clergy": [
+      "Deacon Alfredo Solano"
+    ],
+    "givingUrl": "https://ststephenelpaso.org/",
+    "textToGive": null,
+    "email": "office@ststephenelpaso.org",
+    "massTimes": [
+      "Liturgy of the Word (Mon) - 6:30am (Bilingual)",
+      "Daily Mass (Tue–Fri) - 6:30am (Bilingual)",
+      "Saturday - 5:00pm (English)",
+      "Sunday - 7:00am (English)",
+      "Sunday - 8:30am (Spanish)",
+      "Sunday - 10:30am (English)",
+      "Sunday - 12:30pm (English)"
+    ],
+    "other": [
+      "Confession: Saturday 4:00pm–4:45pm",
+      "Facebook: https://www.facebook.com/StStephenElPaso"
+    ],
+    "lat": 31.7580388,
+    "lng": -106.3013337,
+    "geocodeDisplayName": "St. Stephen Deacon and Martyr Catholic Church, 1700, George Dieter Drive, El Paso, El Paso County, Texas, 79936, United States"
+  },
+  {
+    "id": "st-thomas-aquinas-el-paso-79936",
+    "name": "St. Thomas Aquinas",
+    "type": "Parish",
+    "address": "10970 Bywood, El Paso, TX 79936",
+    "phone": "(915) 592-1313",
+    "pastor": "Rev. Kennon \"Ken\" Ducre",
+    "clergy": [
+      "Deacon Frank Segura",
+      "Deacon Ricardo Corella"
+    ],
+    "givingUrl": "https://giving.parishsoft.com/app/giving/stt1097276",
+    "textToGive": null,
+    "email": null,
+    "massTimes": [
+      "Daily Mass - 5:30pm",
+      "Saturday - 4:00pm",
+      "Sunday - 8:30am (English)",
+      "Sunday - 10:00am (Spanish)",
+      "Sunday - 12:00pm (English)"
+    ],
+    "other": [
+      "Confession: Wednesday 6:00pm"
+    ],
+    "lat": 31.780547,
+    "lng": -106.320182,
+    "geocodeDisplayName": "10970, Bywood Drive, El Paso, El Paso County, Texas, 79936, United States"
+  },
+  {
+    "id": "sts-peter-and-paul-el-paso-79927",
+    "name": "Sts. Peter and Paul",
+    "type": "Parish",
+    "address": "673 Old Hueco Tanks Road, El Paso, TX 79927",
+    "phone": "(915) 859-3758",
+    "pastor": "Rev. Angel Maldonado",
+    "clergy": [
+      "Deacon Arturo Araiza"
+    ],
+    "givingUrl": "https://giving.parishsoft.com/app/giving/stspeterpaul",
+    "textToGive": null,
+    "email": null,
+    "massTimes": [
+      "Saturday (Anticipated) - 5:00 p.m. (Spanish)",
+      "Sunday - 8:00 a.m. (Spanish)",
+      "Sunday - 10:00 a.m. (English)",
+      "Sunday - 12:00 p.m. (Spanish)",
+      "Sunday - 5:00 p.m. (Spanish)",
+      "Daily Mass (Mon–Thu) - 9:00 a.m.",
+      "Daily Mass (Fri) - 10:00 a.m."
+    ],
+    "other": [
+      "Confessions: Wednesday 5:00pm"
+    ],
+    "lat": 31.6750899,
+    "lng": -106.2830349,
+    "geocodeDisplayName": "673, Old Hueco Tanks Road, Bagge Estates Colonia, Socorro, El Paso County, Texas, 79927, United States"
+  }
+]
