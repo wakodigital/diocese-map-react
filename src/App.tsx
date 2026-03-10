@@ -39,6 +39,8 @@ export default function App() {
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
+    console.log("BASE_URL:", import.meta.env.BASE_URL);
+    console.log("locations URL:", 
     fetch(`${import.meta.env.BASE_URL}locations.json`)
       .then((r) => {
         if (!r.ok) throw new Error(`Failed to load locations.json (${r.status})`);
